@@ -1,0 +1,15 @@
+{
+  "repository": "module-automation-image-dart-mobile",
+  "capabilityKey": "liberusoftware/automation-image",
+  "presentation": "dart-mobile",
+  "package": "module_automation_image_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/automation/nextjs/image.md",
+  "presentationPlan": "projects/automation/features/image.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "automation"
+  ]
+}
